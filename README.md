@@ -49,7 +49,8 @@
  <br> 
  - you should create a group and put the bot admin in it after that change 'group' var in "T2S.py"
  <br>
- 
+ <img src="https://github.com/asmpro7/Lona/assets/114514662/e4e3d089-15ee-42ae-890d-51b71f4ebf7e" alt="T2S"></p>
+
 
   </li>
   <br>
