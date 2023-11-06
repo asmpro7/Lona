@@ -41,6 +41,17 @@
 </p>
 <ul>
   <li>Search on Google: Keyword {!s}</li>  
-  
+  <li>Text to Speech: Keyword {!v}
+  <br>
+  - you can use ':language code' after keyword to speak in that language (example>> '!v :ar' ) >> Optional
+ <br>
+ - after you finish, write a close key (by defult is "|") you can change it from "T2S.py" file
+ <br> 
+ - you should create a group and put the bot admin in it after that change 'group' var in "T2S.py"
+ <br>
+ 
+
+  </li>
+  <br>
   <li>A lot of Features Coming Soon...</li>
 </ul>

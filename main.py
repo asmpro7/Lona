@@ -6,7 +6,7 @@ token = '0'
 admin = 0
 
 bot = Client('Bot',api_id=api_id,api_hash=api_hash,bot_token=token,plugins=dict(root='plugins',include=[
-    'search'
+    'search','T2S.T2S'
     ]))
 
 @bot.on_message(filters.private & filters.user(admin) & filters.command('stat'))
