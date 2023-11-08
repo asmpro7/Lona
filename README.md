@@ -52,6 +52,21 @@
  
 
   </li>
+  <li>Chemical Elements: Keyword {!ce}
+  <br>
+  - you can enter element number, name or symbol
+  <br>
+  - you can enter 'names' to show all names
+  <br>
+  - you can enter 'numbers' to show all numbers
+  <br>
+  - you can enter 'groups' to show all groups
+  <br>
+  - you can enter specific group name to show all elements in it
+  <br>
+  <p align="center">(Explanatory video)<img src="https://github.com/asmpro7/ElementFlow/assets/114514662/0147eb07-538f-416f-9071-4094fe361959" alt="features"></p>
+  </li>  
+  <br>
   <br>
   <li>A lot of Features Coming Soon...</li>
 </ul>
