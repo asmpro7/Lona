@@ -68,7 +68,7 @@
   <p align="center">(Explanatory video)<br><img src="https://github.com/asmpro7/ElementFlow/assets/114514662/0147eb07-538f-416f-9071-4094fe361959" alt="features" width='450'></p>
   </li>  
   <li>Generate Qr Code: commend {/qr}<br>
-  <p align="center"><img src="" alt="features"></p>
+  <p align="center"><img src="https://github.com/asmpro7/Lona/assets/114514662/6e4b5aef-3c97-4e11-ae4f-ec773e66fbdb" alt="features"></p>
 
   </li>  
   <br>
