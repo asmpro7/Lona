@@ -46,7 +46,7 @@
   - you can use ':language code' after keyword to speak in that language (example>> '!v :ar' ) >> Optional
  <br>
  - after you finish, write a close key (by defult is "|") you can change it from "T2S.py" file
- <br> 
+ <br>
  - you should create a group and put the bot admin in it after that change 'group' var in "T2S.py"
  <br><br>
  <img src="https://github.com/asmpro7/Lona/assets/114514662/e4e3d089-15ee-42ae-890d-51b71f4ebf7e" alt="T2S"></p>
@@ -69,7 +69,7 @@
   </li>  
   <li>Generate Qr Code: commend {/qr}<br>
   <p align="center"><img src="" alt="features"></p>
-  
+
   </li>  
   <br>
   <br>
