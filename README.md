@@ -65,7 +65,7 @@
   <br>
   - you can enter specific group name to show all elements in it
   <br>
-  <p align="center">(Explanatory video)<img src="https://github.com/asmpro7/ElementFlow/assets/114514662/0147eb07-538f-416f-9071-4094fe361959" alt="features"></p>
+  <p align="center">(Explanatory video)<br><img src="https://github.com/asmpro7/ElementFlow/assets/114514662/0147eb07-538f-416f-9071-4094fe361959" alt="features" width='450'></p>
   </li>  
   <li>Generate Qr Code: commend {/qr}<br>
   <p align="center"><img src="" alt="features"></p>
