@@ -1,4 +1,5 @@
-from pyrogram import Client, filters, types
+from pyrogram import filters, types
+from pyromod import Client
 
 api_id = 0
 api_hash = '0'
