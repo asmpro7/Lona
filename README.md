@@ -70,7 +70,8 @@
   <li>Generate Qr Code: commend {/qr}<br>
   <p align="center"><img src="" alt="features"></p>
 
-  </li>  
+  </li> 
+  <li>Mention Group Members: commend {/all}</li>   
   <br>
   <br>
   <li>A lot of Features Coming Soon...</li>
