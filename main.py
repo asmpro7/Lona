@@ -7,7 +7,7 @@ token = '0'
 admin = 0
 
 bot = Client('Bot', api_id=api_id, api_hash=api_hash, bot_token=token, plugins=dict(root='plugins', include=[
-    'search', 'T2S.T2S', 'elements.elements', 'qr.qr', 'mention'
+    'search', 'T2S.T2S', 'elements.elements', 'qr.qr', 'mention', 'events'
 ]))
 
 

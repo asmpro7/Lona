@@ -71,7 +71,12 @@
   <p align="center"><img src="https://github.com/asmpro7/Lona/assets/114514662/6e4b5aef-3c97-4e11-ae4f-ec773e66fbdb" alt="features"></p>
 
   </li> 
-  <li>Mention Group Members: commend {/all}</li>   
+  <li>Mention Group Members: commend {/all}</li>  
+  <li>Auto Event Remover: By default On
+  <br>
+  - you can Turn it off using commend {/eventOff}
+  <br>
+  - you can Turn it on using commend {/eventOn}
   <br>
   <br>
   <li>A lot of Features Coming Soon...</li>
