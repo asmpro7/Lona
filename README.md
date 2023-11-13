@@ -76,7 +76,8 @@
   <br>
   - you can Turn it off using commend {/eventOff}
   <br>
-  - you can Turn it on using commend {/eventOn}
+  - you can Turn it on using commend {/eventOn}</li>
+  <li>Random Fact: commend {/fact}</li>
   <br>
   <br>
   <li>A lot of Features Coming Soon...</li>
