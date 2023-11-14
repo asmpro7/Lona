@@ -80,11 +80,15 @@
   <li>Random Fact: commend {/fact}</li>
   <li>Reminder System: commend {/reminder}
   <br>
-  - you can add Reminders and when the time come it reminder you
+  - you can add Reminders and when the time come it reminder you <br>
+<p align="center"><img src="https://github.com/asmpro7/Lona/assets/114514662/5db47279-512f-4879-a500-3dbd189ee6bb" alt="features"></p>
   <br>
-  - you can Show all Reminders
+  - you can Show all Reminders <br>
+  <p align="center"><img src="https://github.com/asmpro7/Lona/assets/114514662/dd851619-9368-4898-b56d-fcffc19bd510" alt="features"></p>
+    
   <br>
-  - you can delete all Reminders
+  - you can delete all Reminders <br>
+  <p align="center"><img src="https://github.com/asmpro7/Lona/assets/114514662/4ecb4d43-ffe5-432f-8f96-a3ab4f6e0219" alt="features"></p>
   </li>
   <br>
   <br>
