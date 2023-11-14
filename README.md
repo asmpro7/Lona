@@ -78,6 +78,14 @@
   <br>
   - you can Turn it on using commend {/eventOn}</li>
   <li>Random Fact: commend {/fact}</li>
+  <li>Reminder System: commend {/reminder}
+  <br>
+  - you can add Reminders and when the time come it reminder you
+  <br>
+  - you can Show all Reminders
+  <br>
+  - you can delete all Reminders
+  </li>
   <br>
   <br>
   <li>A lot of Features Coming Soon...</li>
