@@ -9,7 +9,7 @@ async def event(app: Client, even: types.Message):
         await even.delete()
 
 
-@Client.on_message(filters.command('eventOff'))
+@Client.on_message(filters.command('eventoff'))
 async def handle_events_off(app: Client, msg: types.Message):
     user = await msg.chat.get_member(msg.from_user.id)
     if user.status in (enums.ChatMemberStatus.OWNER, enums.ChatMemberStatus.ADMINISTRATOR):
@@ -20,7 +20,7 @@ async def handle_events_off(app: Client, msg: types.Message):
     await app.send_message(msg.chat.id, 'Auto event remover: Off', reply_to_message_id=msg.id)
 
 
-@Client.on_message(filters.command('eventOn'))
+@Client.on_message(filters.command('eventon'))
 async def handle_events_on(app: Client, msg: types.Message):
     user = await msg.chat.get_member(msg.from_user.id)
     if user.status in (enums.ChatMemberStatus.OWNER, enums.ChatMemberStatus.ADMINISTRATOR):
